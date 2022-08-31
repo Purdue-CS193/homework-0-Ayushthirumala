@@ -12,14 +12,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # AYUSH THIRUMALAs first CS 193 hw
-## Header 2
-### Header 3
+FAVORITE THINGS ABOUT CS 193:
+-NO Tests and quizzes
+-Taught by TAs
+-Helps navigate CS field
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
+
+
+
+
+
+
+
+
 
 **Bold** and _Italic_ and `Code` text
 
